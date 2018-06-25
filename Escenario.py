@@ -35,7 +35,7 @@ class Escenario:
         self.cantidadEnemigos = 4
         # Sonidos
         pygame.mixer.init(44100) # Frecuencia
-        self.sonido_explosion = pygame.mixer.Sound("explosion_bomba.wav")
+        self.sonido_explosion = pygame.mixer.Sound("8 Bit Explosion 1 SOUND Effect.wav")
         self.sonido_explosion.set_volume(0.5)
 
     """
