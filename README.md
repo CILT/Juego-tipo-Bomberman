@@ -2,6 +2,8 @@
 
 Proyecto destinado a cumplir con fines educativos. Corresponde a un juego tipo Bomberman desarrollado en PyGame, a partir de cierto código proporcionado por el curso de Modelación y Computación Gráfica, 2018.
 
+Usa el patrón modelo-vista-controlador.
+
 ## Requerimientos:
 * Python 2.7.13
 * PyGame
