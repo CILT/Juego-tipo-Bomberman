@@ -95,3 +95,6 @@ Help and initial code by:
 - Pablo R. Polanco
 - Daniel Calderón
 
+### Music
+
+8-bit version of Hunting High and Low, by Stratovarius.
